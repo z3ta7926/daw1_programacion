@@ -5,8 +5,6 @@ import java.util.Scanner;
 //INTERACCION CON EL USUARIO Y CICLO DEL PROGRAMA
 public class EstudioTV {
 
-    public void menuPrincipal(){}
-
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int opcion = 0;
